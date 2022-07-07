@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\lenovo\Desktop\projet-java-who_wants_to_be_a_millionnaire-main\.metadata\.plugins\org.eclipse.jdt.core
+2781821161.index
+1973300338.index
+806600246.index
+1865797976.index
+2676824522.index
+2322335999.index
+500837848.index
+2154451768.index

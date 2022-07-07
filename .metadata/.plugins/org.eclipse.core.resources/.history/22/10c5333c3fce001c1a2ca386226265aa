@@ -1,0 +1,14 @@
+package exceptions;
+
+// nickname (surnom) deja utilisé chez un autre utilisateurs.
+
+
+
+
+
+public class UserNicknameException extends Exception{
+
+	public UserNicknameException(){
+		super("This nickname user already exist.");
+	}
+}

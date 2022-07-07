@@ -1,0 +1,10 @@
+package exceptions;
+
+//cet exception is throw quand lors de la creaction d;un compte la date de naissance est invalide.
+
+public class UserBirthDateException extends Exception{
+
+	public UserBirthDateException(){
+		super("This birthdate is invalid.");
+	}
+}

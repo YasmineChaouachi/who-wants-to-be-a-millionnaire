@@ -1,0 +1,9 @@
+package exceptions;
+
+// Adresse email invalide .
+public class UserMailException extends Exception{
+
+	public UserMailException(){
+		super("Cet Adresse Email est invalide !");
+	}
+}

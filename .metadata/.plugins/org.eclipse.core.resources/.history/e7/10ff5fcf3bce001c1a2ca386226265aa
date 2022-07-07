@@ -1,0 +1,27 @@
+package model;
+
+import java.awt.Color;
+
+/* cet enum specifi les couleurs de l'application. */
+
+public enum ColorProject {
+
+	COLOR_BLUE(new Color(45,153,196)),
+	COLOR_BLACK(new Color(105,97,88));
+
+	private Color col;
+	
+	ColorProject(Color color){
+		this.col=color;
+	}
+
+	/**
+	 * This method return the color of the enumeration.
+	 * @return Color
+	 */
+	public Color getCol() {
+		return col;
+	}
+	
+	
+}
